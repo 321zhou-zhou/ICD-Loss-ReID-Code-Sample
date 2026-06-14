@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Data, checkpoints, and logs
+datasets/
+data/
+pretrained_model/
+checkpoints/
+weights/
+logs/
+outputs/
+runs/
+*.pth
+*.pt
+*.ckpt
+*.onnx
+*.pkl
+*.npy
+*.npz
