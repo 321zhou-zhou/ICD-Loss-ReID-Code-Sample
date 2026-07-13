@@ -22,7 +22,9 @@ The module extends an ArcFace-style identity classification layer. For each inpu
 6. returns both the classification logits and the ICD regularization loss.
 
 <img width="965" height="365" alt="图片" src="https://github.com/user-attachments/assets/798e1991-0e96-4d45-a832-2b6cdf4d91e5" />
-<img width="600" height="290" alt="2026-07-13_094420" src="https://github.com/user-attachments/assets/256cc28a-904c-4bad-8330-d82027a60810" />
+
+<img width="700" height="301" alt="2026-07-13_094420(1)" src="https://github.com/user-attachments/assets/9d7f7ead-8f51-4e07-8488-29d5bde3cd50" />
+
 <img width="1372" height="578" alt="2026-07-13_095206" src="https://github.com/user-attachments/assets/fa36ecf3-e91e-4b35-8534-4c9e127f3ee1" />
 
 ## Main file
