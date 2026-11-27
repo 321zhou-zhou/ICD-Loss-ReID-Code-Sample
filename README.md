@@ -35,8 +35,7 @@ $$
 \mathbf{i}=\mathbf{z}-(\mathbf{w}_y^\top\mathbf{z})\mathbf{w}_y.
 $$
 
-The released implementation normalizes these components and averages positive cosine similarities between distinct same-identity samples. Minimizing this term encourages diversity in the class-orthogonal space. The class weights and target cosine values are detached in the ICD branch. Cross-entropy (CE) remains responsible for identity discrimination. Here, classification-irrelevant refers to directions orthogonal to the target class-weight vector, not directions guaranteed to leave all classifier scores unchanged.
-
+The released implementation normalizes these components and averages positive cosine similarities between distinct same-identity samples. Minimizing this term encourages diversity in the class-orthogonal space. The class weights and target cosine values are detached in the ICD branch. Cross-entropy (CE) remains responsible for identity discrimination. 
 ## Quick start
 
 ```bash
